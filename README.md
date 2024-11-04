@@ -40,7 +40,7 @@ A clean and interactive progress steps component that shows the user's progress 
 
 ## Code Structure 
 ```bash
-02 Day 2 - Number Slider/
+Day 2 - Number Slider/
 ├── index.html
 ├── styles.css
 └── script.js
@@ -53,7 +53,7 @@ A clean and interactive progress steps component that shows the user's progress 
 4. Click 'Prev' to go back to previous steps
 
 ## JavaScript Functions
-- `update()`: Updates the UI based on current active step
+- `update()`: Updates the UI based on the current active step
 - Event listeners for 'Next' and 'Prev' buttons
 - Progress calculation and button state management
 
@@ -64,4 +64,4 @@ A clean and interactive progress steps component that shows the user's progress 
 - Responsive design
 
 ## Credits
-Part of "50 Projects in 50 Days" challenge
+Part of the "50 Projects in 50 Days" challenge
